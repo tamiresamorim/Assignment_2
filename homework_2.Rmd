@@ -2,7 +2,7 @@
 title: "HM2"
 author: "by Tamires Amorim"
 date: "3/2/2021"
-output: html_document
+output: github_document
 ---
 
 Loading packages:
