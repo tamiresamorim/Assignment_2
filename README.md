@@ -1,5 +1,4 @@
 # Assignment_2
-HM2
 ================
 by Tamires Amorim
 3/2/2021
